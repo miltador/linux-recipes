@@ -1,0 +1,9 @@
+:toc:
+
+= linux-recipes
+
+My Linux recipes to bootstrap and enhance Linux distributions I use.
+Basically it automates routine of setting up your environment.
+
+The scripts are divided by distributions - each distribution in it's own 
+directory.
