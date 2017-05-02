@@ -4,7 +4,7 @@
 
 git config --global user.email "miltador@yandex.ua"
 git config --global user.name "Vasiliy Solovey"
-git config --global credential.helper cache
+git config --global credential.helper store
 
 echo "Done!"
 
